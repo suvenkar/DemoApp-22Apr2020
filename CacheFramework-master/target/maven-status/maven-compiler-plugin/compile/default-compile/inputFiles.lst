@@ -1,0 +1,15 @@
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/cache/staticcache/StaticCache.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/cache/lrucache/LRUCache.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/cache/mainmethod/CacheMainMethods.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/webui/pages/LoginPage.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/cache/dymaniccache/DynamicCache.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/cache/interf/CacheInterface.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/webui/tests/RediffLoginTest.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/webui/tests/LoginTest.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/cache/fifo/FifoCache.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/webui/tests/GmailLoginTest.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/webui/tests/GmailLogincheck.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/webui/pages/GmailLoginPage.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/com/hpe/webui/pages/HomePage.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/CacheMainMethods.java
+/opt/software/alldata/jenkins/CacheFramework/src/main/java/Belly.java
